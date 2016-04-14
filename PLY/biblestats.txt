@@ -6,7 +6,7 @@ DATE WRITTEN: 1450 B.C.-1400 B.C.
 DATES COVERED: The beginning to 1620 B.C.; Chapter 12 to the end—1921 B.C.-1689 B.C.
 FOR/TO: A general record
 WHERE WRITTEN: In the wilderness
-STATISTICS: 50 chapters, 1533 verses, 38,267 words
+STATISTICS: 50 chapters, 1533 verses, 38267 words
 MISC: From the Creation to Joseph.
 BOOK 2
 BOOK NAME: Exodus. Departure, going out; the second book of Moses.
@@ -16,7 +16,7 @@ DATE WRITTEN: 1450 B.C.-1400 B.C., 1580 B.C.-1230 B.C.
 DATES COVERED: 1677 B.C.-1461 B.C., 1530 B.C.-1450 B.C.
 FOR/TO: The Israelites
 WHERE WRITTEN: In the wilderness
-STATISTICS: 40 chapters, 1213 verses, 32,692 words
+STATISTICS: 40 chapters, 1213 verses, 32692 words
 MISC: Joseph through the descendants of Jacob The Exodus Moses:  40 years thinking he was somebody 40 years learning he was nobody 40 years discovering what God can do with a nobody
 BOOK 3
 BOOK NAME: Leviticus.  He called; pertaining to the Levite, of the Levites; the book of atonement, the book of laws; the third book of Moses.
@@ -26,7 +26,7 @@ DATE WRITTEN: 1450 B.C.-1400 B.C.
 DATES COVERED: 1462 B.C.-1461 B.C.
 FOR/TO: The Israelites
 WHERE WRITTEN: In the wilderness, Mt Sinai region
-STATISTICS: 27 chapters, 859 verses, 24,546 words
+STATISTICS: 27 chapters, 859 verses, 24546 words
 MISC: Without Leviticus, the powerful message of the cross is more difficult to understand—Holiness, sacrifice, atonement, and dedication.
 BOOK  4
 BOOK NAME: Numbers.  In the wilderness; the book of the march; the fourth book of Moses.
@@ -36,7 +36,7 @@ DATE WRITTEN: 1450 B.C.-1400 B.C.
 DATES COVERED: 1461 B.C.-1423 B.C.
 FOR/TO: The Israelites
 WHERE WRITTEN: In the wilderness, Mt Sinai
-STATISTICS: 36 chapters, 1288 verses, 32,902 or 32,092words
+STATISTICS: 36 chapters, 1288 verses, 32902 words
 MISC: Chapters 1-21 wilderness years; 26-36 new generation, covers about 39 years.
 BOOK 5
 BOOK NAME: Deuteronomy.  These are the words; a copy of the Law; this second law; the second law giving; repetition of the Law; the fifth book of Moses. 
@@ -46,7 +46,7 @@ DATE WRITTEN: 1450 B.C.-1400 B.C.
 DATES COVERED: 1423 B.C.-1422 B.C.
 FOR/TO: The Israelites
 WHERE WRITTEN: In the wilderness, on the banks of Jordan
-STATISTICS: 34 chapters, 959 verses, 28,461 words
+STATISTICS: 34 chapters, 959 verses, 28461 words
 MISC: More than 80 references to this book in the New Testament.
 BOOK 6
 BOOK NAME: Joshua.  Jehovah is salvation
@@ -56,7 +56,7 @@ DATE WRITTEN: 1370 B.C.-1330 B.C., before 1200 B.C., 1235 B.C., 1410 B.C.-1390 B
 DATES COVERED: 1422 B.C.-1362 B.C.
 FOR/TO:  The Israelites
 WHERE WRITTEN: Canaan
-STATISTICS: 24 chapters, 685 verses, 18,858 words
+STATISTICS: 24 chapters, 685 verses, 18858 words
 MISC:
 BOOK  7
 BOOK NAME: Judges
@@ -66,7 +66,7 @@ DATE WRITTEN: 1050 B.C.-1000 B.C., 1390 B.C.-1350 B.C., 1300 B.C.-1050 B.C.
 DATES COVERED: 1416 B.C.-1065 B.C.
 FOR/TO: The Israelites
 WHERE WRITTEN: Canaan
-STATISTICS: 21 chapters, 618 verses, 18,976 words
+STATISTICS: 21 chapters, 618 verses, 18976 words
 MISC:
 BOOK 8
 BOOK NAME: Ruth
@@ -76,7 +76,7 @@ DATE WRITTEN: Unknown, 10th century B.C. to 400 B.C., 399 B.C.-300 B.C., 1100 B.
 DATES COVERED: 1261 B.C.-1251 B.C.
 FOR/TO: The Israelites
 WHERE WRITTEN: Unknown
-STATISTICS: 4 chapters, 85 verses, 2,578 words
+STATISTICS: 4 chapters, 85 verses, 2578 words
 MISC: Ruth was a Moabitess.
 BOOK 9
 BOOK NAME: First Samuel
@@ -86,7 +86,7 @@ DATE WRITTEN: 1000 B.C.-950 B.C., 11th century B.C., 1070 B.C.-1011 B.C., 1000 B
 DATES COVERED 1126 B.C.-1025 B.C.
 FOR/TO: The Israelites
 WHERE WRITTEN: Unknown
-STATISTICS: 31 chapters, 810 verses, 25,061 words
+STATISTICS: 31 chapters, 810 verses, 25061 words
 MISC: Parts occurred after Samuel’s death.  First and Second Samuel were one book.  Sometimes they were entitled First and Second Kings; and First and Second Kings were Third and Fourth Kings.
 BOOK 10
 BOOK NAME: Second Samuel
@@ -96,7 +96,7 @@ DATE WRITTEN: 10th century B.C., 1011 B.C.-975 B.C., 1000 B.C.-850B.C.
 DATES COVERED: 1025 B.C.-988 B.C.
 FOR/TO: The leaders of Israel
 WHERE WRITTEN: Unknown
-STATISTICS: 24 chapters, 695 verses, 20,612 words
+STATISTICS: 24 chapters, 695 verses, 20612 words
 MISC: First and Second Samuel were one book.  Sometimes they were entitled First and Second Kings; and First and Second Kings was Third and Fourth Kings.
 BOOK 11
 BOOK NAME: First Kings
@@ -106,7 +106,7 @@ DATE WRITTEN: 562 B.C.-536 B.C., over a period ending by the 6th century B.C., 9
 DATES COVERED: 1025 B.C.-864 B.C.
 FOR/TO: The people of Israel
 WHERE WRITTEN: Unknown, perhaps in the area of Babylon
-STATISTICS: 22 chapters, 816 verses, 24,524 words
+STATISTICS: 22 chapters, 816 verses, 24524 words
 MISC: First and Second Kings originally known as Third and Fourth Kings.  Some think Jeremiah wrote it, as Jeremiah 52 and 2 Kings 24, 25 nearly identical.
 BOOK 12
 BOOK NAME: Second Kings
@@ -116,7 +116,7 @@ DATE WRITTEN: 562 B.C.-536 B.C., over a period ending by the 6th  century B.C., 
 DATES COVERED: 870 B.C.-561 B.C.
 FOR/TO: The people of Israel
 WHERE WRITTEN: Unknown, perhaps in the area of Babylon
-STATISTICS: 25 chapters, 719 verses, 23,532 words
+STATISTICS: 25 chapters, 719 verses, 23532 words
 MISC: First and Second Kings originally known as Third and Fourth Kings.  Some think Jeremiah wrote it, as Jeremiah 52 and 2 Kings 24, 25 nearly identical.
 BOOK 13
 BOOK NAME: First Chronicles.  The affairs of the days
@@ -126,7 +126,7 @@ DATE WRITTEN: 500 B.C.-450 B.C., written about 100 years after Kings, 5th centur
 DATES COVERED: 1699 B.C.-444 B.C.
 FOR/TO: The people of Israel
 WHERE WRITTEN: Unknown
-STATISTICS: 29 chapters, 942 verses, 20,369 words
+STATISTICS: 29 chapters, 942 verses, 20369 words
 MISC: First and Second Chronicles were once one.  First and Second Chronicles and Ezra perhaps one history.            
 BOOK 14
 BOOK NAME: Second Chronicles
@@ -136,7 +136,7 @@ DATE WRITTEN: 500 B.C.-450 B.C., written about 100 years after Kings, 5th centur
 DATES COVERED: 1015 B.C.-539 B.C.
 FOR/TO: The people of Israel
 WHERE WRITTEN: Unknown
-STATISTICS: 36 chapters, 822 verses, 26,074 words
+STATISTICS: 36 chapters, 822 verses, 26074 words
 MISC:  First and Second Chronicles were once one.  First and Second Chronicles and Ezra perhaps one history.
 BOOK 15
 BOOK NAME: Ezra
@@ -146,7 +146,7 @@ DATE WRITTEN: 456 B.C.-444 B.C., 444 B.C.-398 B.C., 538 B.C.-457 B.C.
 DATES COVERED: 1723 B.C.-457 B.C.
 FOR/TO: The people of Israel
 WHERE WRITTEN: Unknown, perhaps Jerusalem
-STATISTICS: 10 chapters, 280 verses, 7,441 words
+STATISTICS: 10 chapters, 280 verses, 7441 words
 MISC: Spans about 80 years, beginning about 538 B.C.  Nehemiah, First and Second Chronicles, and Ezra considered a literary work (called Priestly History of Israel). 
 BOOK 16
 BOOK NAME: Nehemiah.  Also called Second Ezra
@@ -156,7 +156,7 @@ DATE WRITTEN: 420 B.C., 445 B.C.-432 B.C.
 DATES COVERED: 536 B..C-432 B.C., 445 B.C.-425 B.C., about 20 years
 FOR/TO: The people of Israel
 WHERE WRITTEN: Unknown, perhaps Jerusalem
-STATISTICS: 13 chapters, 406 verses, 10,483 words
+STATISTICS: 13 chapters, 406 verses, 10483 words
 MISC: Artaxerxes I, whom Nehemiah served as cupbearer, was the son of Ahasuerus (Xerxes), who took Esther to be his queen.
 BOOK 17
 BOOK NAME: Esther.  The volume of Esther
@@ -176,7 +176,7 @@ DATE WRITTEN: Unknown, perhaps during Solomon’s time, 900 B.C.
 DATES COVERED: 1997 B.C.-1827 B.C., 2000 B.C., unknown
 FOR/TO: No specific people
 WHERE WRITTEN: Unknown
-STATISTICS: 42 chapters, 1070 verses, 10,102 words
+STATISTICS: 42 chapters, 1070 verses, 10102 words
 MISC: Poetical, wisdom books—Job, Proverbs, Psalms, Ecclesiastes, Lamentations, Song of Solomon.  Uz—perhaps in the area of Idumaea, unknown, perhaps southern Lebanon.  Some consider this to be the oldest book in the Bible.  Mentioned by Ezekiel 14:14,20. Job pleads for death, then mercy, but no response.  He wishes someone to resolve the quarrel between them; then finally faces problems with courage and asks God to bring him through painful trials (16:18-17:3) (19:25-27).
 BOOK 19
 BOOK NAME: Psalms.  To the collection; praises; book of praises
@@ -186,7 +186,7 @@ DATE WRITTEN: Unknown, some contain elements varying by more than a thousand yea
 DATES COVERED:  1423 B.C.-444 B.C., unknown
 FOR/TO: The Jewish people
 WHERE WRITTEN: Many places
-STATISTICS: 150 chapters, 2461 verses, 43,743 words
+STATISTICS: 150 chapters, 2461 verses, 43743 words
 MISC:
 BOOK 20
 BOOK NAME: Proverbs
@@ -196,20 +196,8 @@ DATE WRITTEN:  10th century B.C., 970 B.C.-930 B.C., 900 B.C.
 DATES COVERED: 982 B.C.-961 B.C.
 FOR/TO: Young people
 WHERE WRITTEN: Jerusalem
-STATISTICS: 31 chapters, 915 verses, 15,043 words
-MISC: Chapters: 1-9               Contrasts good and evil; wisdom calls the simple to forsake sin; the harlot calls him to  indulgence. 10:1-22:16     Treatment; through chapter 15 by contrast "but;"  wisdom and folly;  fool, scorner, slothful, froward.
-
-
-         22:17-24:22
-         24:23-24:34
-         25:1-29:27
-         30:1-31:31
-         Other breakdowns:
-           1-10           Counsel for young men
-         11-20           Counsel for all men
-         21-31           Counsel for kings and rulers
-         31                Women’s rights (also called)
-                   
+STATISTICS: 31 chapters, 915 verses, 15043 words
+MISC: Chapters: 1-9               Contrasts good and evil; wisdom calls the simple to forsake sin; the harlot calls him to  indulgence. 10:1-22:16     Treatment; through chapter 15 by contrast "but;"  wisdom and folly;  fool, scorner, slothful, froward. 22:17-24:22 24:23-24:34 25:1-29:27 30:1-31:31Other breakdowns: 1-10           Counsel for young men 11-20           Counsel for all men 21-31           Counsel for kings and rulers 31                Women’s rights (also called)
 BOOK 21
 BOOK NAME: Ecclesiastes.  Assembly; one who assembles; one who collects; one who addresses an assembly; preacher; member of the assembly
 THEME: Earthly goals lead to emptiness; happiness through science, philosophy, pleasure, mirth, drinking, building, possessions, wealth, music, materialism—all are empty.  He tried fatalism, natural religion, wealth, morality—all are empty.
@@ -218,7 +206,7 @@ DATE WRITTEN: Tenth century B.C., 962-922 B.C.
 DATES COVERED: 947 B.C.
 FOR/TO: Young people
 WHERE WRITTEN: Jerusalem
-STATISTICS: 12 chapters, 222 verses, 5,584 words
+STATISTICS: 12 chapters, 222 verses, 5584 words
 MISC: Solomon used as the central character.  Vanity—emptiness or meaningless.  "Under the sun" may mean without God in the world. Remembering the Creator, means a young person must come to the recognition that he is not the Creator or the master of his own life. "Under the sun" occurs about 29 times.  God gives meaning to life—all else is vanity and meaningless.
 BOOK 22
 BOOK NAME: Song of Solomon.  Song of songs; best of the songs
@@ -238,7 +226,7 @@ DATE WRITTEN: 740 B.C.-698 B.C., 8th century B.C., 750 B.C.-680 B.C.
 DATES COVERED: From Lucifer fallen to 539 B.C.
 FOR/TO: Judah and the Jewish nation
 WHERE WRITTEN: Unknown, perhaps Jerusalem
-STATISTICS: 66 chapters, 1292 verses, 37,044 words
+STATISTICS: 66 chapters, 1292 verses, 37044 words
 MISC: He was martyred by being sawn asunder-ref Heb 11:37, tradition says by king Manasseh.
 BOOK 24
 BOOK NAME: Jeremiah.  The appointed one of the Lord
@@ -248,7 +236,7 @@ DATE WRITTEN: 640 B.C.-577 B.C.
 DATES COVERED: From the earth without form and void to 539 B.C., 7th century B.C.
 FOR/TO: Mainly Jews in Judah
 WHERE WRITTEN: Perhaps Jerusalem
-STATISTICS: 52 chapters, 1364 verses, 42,659 words
+STATISTICS: 52 chapters, 1364 verses, 42659 words
 MISC: Some believe Jeremiah died in Egypt.  Tradition says that Jewish refugees stoned him to death in Egypt.
 BOOK 25
 BOOK NAME: Lamentations.  Ah, howl, alas, cry aloud, or lament
@@ -268,7 +256,7 @@ DATE WRITTEN: 6th century B.C., 593 B.C.-570 B.C.
 DATES COVERED: Thou hast been in Eden to 571 B.C.
 FOR/TO: Exiles in Babylon
 WHERE WRITTEN: Babylon
-STATISTICS: 48 chapters, 1273 verses, 39,407 words
+STATISTICS: 48 chapters, 1273 verses, 39407 words
 MISC:
 BOOK 27
 BOOK NAME: Daniel
@@ -278,11 +266,8 @@ DATE WRITTEN: Perhaps 605 B.C.-536 B.C., 6th century B.C.
 DATES COVERED: 605 B.C.-537 B.C.
 FOR/TO: Exiles in Babylon
 WHERE WRITTEN: Babylon
-STATISTICS: 12 chapters, 357 verses, 11,606 words
-MISC: Daniel lived under three rulers:
-         1.    Nebuchadnezzar-Babylon
-         2.    Darius the Mede (Median)
-         3.    Cyrus (Persian)
+STATISTICS: 12 chapters, 357 verses, 11606 words
+MISC: Daniel lived under three rulers: 1.    Nebuchadnezzar-Babylon 2.    Darius the Mede (Median) 3.    Cyrus (Persian)
 BOOK 28
 BOOK NAME: Hosea
 THEME: Redeeming love
@@ -392,9 +377,7 @@ DATES COVERED:521 B.C.-494 B.C.
 FOR/TO: Restored Israel
 WHERE WRITTEN: Jerusalem
 STATISTICS: 14 chapters, 211 verses, 6444 words
-MISC: 1-8       Call to repentance
-         9-14     The future of Israel and God’s people
-         (8 visions of Zechariah)
+MISC: 1-8       Call to repentance 9-14     The future of Israel and God’s people(8 visions of Zechariah)
 BOOK  39
 BOOK NAME:Malachi.  The messenger of Jehovah; the messenger of the Lord
 THEME: Rebuke
@@ -404,18 +387,16 @@ DATES COVERED: Unknown
 FOR/TO: Israel
 WHERE WRITTEN: Judah
 STATISTICS: 4 chapters, 55 verses, 1782 words
-MISC: 
-18-THE NEW TESTAMENT  
+MISC:
 BOOK 40
-BOOK NAME:
-Matthew.   Gift of God
+BOOK NAME: Matthew.   Gift of God
 THEME: Emphasis seems to be on the fact that Jesus is Israel’s promised Messiah—the One that would establish the Kingdom.  Emphasis placed on the fact that He is the Son of David—of royal descent.
 BY: The apostle Matthew (a tax collector)
 DATE WRITTEN: Approximately A.D. 37 to 50 
 DATES COVERED: From Abraham to just before Jesus ascended to heaven
 FOR/TO:
 WHERE WRITTEN: Perhaps written in Judea, perhaps Jerusalem
-STATISTICS: 28 chapters, 1071 verses, 23,684 words
+STATISTICS: 28 chapters, 1071 verses, 23684 words
 MISC: There are approximately 93 Old Testament quotes or allusions
 BOOK 41
 BOOK NAME: Mark
@@ -425,7 +406,7 @@ DATE WRITTEN: Approximately A.D. 65 to 70.  Some believe A.D. 60.
 DATES COVERED: From John the Baptist to after the ascension of Jesus into heaven
 FOR/TO:
 WHERE WRITTEN: Unknown
-STATISTICS:  16 chapters, 678 verses, 15,171 words
+STATISTICS:  16 chapters, 678 verses, 15171 words
 MISC: Approximately 49 Old Testament quotes
 BOOK 42
 BOOK NAME: Luke 
@@ -435,10 +416,7 @@ DATE WRITTEN: Approximately A.D. 58 to 60
 DATES COVERED: From Adam to after Jesus ascended to heaven
 FOR/TO: Addressed to Theophilus, perhaps a community leader, or government or Roman official.  
 WHERE WRITTEN: Unknown, some believe possibly Caesarea or Rome
-STATISTICS:
-
-
-24 chapters, 1151 verses, 25,944 words
+STATISTICS: 24 chapters, 1151 verses, 25944 words
 MISC: Approximately 80 quotes from the Old Testament
 BOOK 43
 BOOK NAME: John
@@ -448,7 +426,7 @@ DATE WRITTEN: Approximately A.D. 85-90
 DATES COVERED: From “In the beginning” to just prior to Jesus ascending to be with His Father
 FOR/TO:
 WHERE WRITTEN: Probably at Ephesus
-STATISTICS: 21 chapters, 878 verses, 19,099 words
+STATISTICS: 21 chapters, 878 verses, 19099 words
 MISC: Approximately 30 quotes from the Old Testament.  To record Jesus’ signs (20:30,31) so readers would believe in Jesus-ref 20:31.
 BOOK 44
 BOOK NAME: Acts of the Apostles
@@ -458,7 +436,7 @@ DATE WRITTEN: About A.D. 62
 DATES COVERED:
 FOR/TO: Theophilus (a Gentile convert)
 WHERE WRITTEN: Unknown
-STATISTICS: 28 chapters, 1007 verses, 24,250 words
+STATISTICS: 28 chapters, 1007 verses, 24250 words
 MISC: Luke and Acts are as 2 volumes of the same work. 
 BOOK 45
 BOOK NAME: Romans
@@ -678,5 +656,5 @@ DATE WRITTEN: A.D. 95-96
 DATES COVERED: From the first church to New Jerusalem
 FOR/TO: To the seven churches, all saints
 WHERE WRITTEN: Island of Patmos
-STATISTICS: 22 chapters, 404 verses, 12,000 words
+STATISTICS: 22 chapters, 404 verses, 12000 words
 MISC:  The grace of our Lord Jesus Christ be with you all.  Amen-Rev 22:21.

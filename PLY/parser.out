@@ -1,0 +1,266 @@
+Created by PLY version 3.8 (http://www.dabeaz.com/ply)
+
+Grammar
+
+Rule 0     S' -> start
+Rule 1     start -> booknum
+Rule 2     start -> book
+Rule 3     start -> THEME
+Rule 4     start -> BY
+Rule 5     start -> DATE
+Rule 6     start -> FOR
+Rule 7     start -> WHERE
+Rule 8     start -> data
+Rule 9     start -> MISC
+Rule 10    start -> empty
+Rule 11    booknum -> BOOK INTEGER
+Rule 12    book -> BOOK NAME : STR
+Rule 13    data -> STATS : INTEGER CHAPTERS , INTEGER VERSES , INTEGER WORDS
+Rule 14    empty -> <empty>
+
+Terminals, with rules where they appear
+
+,                    : 13 13
+:                    : 12 13
+BOOK                 : 11 12
+BY                   : 4
+CHAPTERS             : 13
+DATE                 : 5
+FOR                  : 6
+INTEGER              : 11 13 13 13
+MISC                 : 9
+NAME                 : 12
+STATS                : 13
+STR                  : 12
+THEME                : 3
+VERSES               : 13
+WHERE                : 7
+WORDS                : 13
+error                : 
+
+Nonterminals, with rules where they appear
+
+book                 : 2
+booknum              : 1
+data                 : 8
+empty                : 10
+start                : 0
+
+Parsing method: LALR
+
+state 0
+
+    (0) S' -> . start
+    (1) start -> . booknum
+    (2) start -> . book
+    (3) start -> . THEME
+    (4) start -> . BY
+    (5) start -> . DATE
+    (6) start -> . FOR
+    (7) start -> . WHERE
+    (8) start -> . data
+    (9) start -> . MISC
+    (10) start -> . empty
+    (11) booknum -> . BOOK INTEGER
+    (12) book -> . BOOK NAME : STR
+    (13) data -> . STATS : INTEGER CHAPTERS , INTEGER VERSES , INTEGER WORDS
+    (14) empty -> .
+
+    THEME           shift and go to state 5
+    BY              shift and go to state 9
+    DATE            shift and go to state 12
+    FOR             shift and go to state 11
+    WHERE           shift and go to state 4
+    MISC            shift and go to state 7
+    BOOK            shift and go to state 6
+    STATS           shift and go to state 8
+    $end            reduce using rule 14 (empty -> .)
+
+    booknum                        shift and go to state 3
+    empty                          shift and go to state 1
+    start                          shift and go to state 10
+    book                           shift and go to state 2
+    data                           shift and go to state 13
+
+state 1
+
+    (10) start -> empty .
+
+    $end            reduce using rule 10 (start -> empty .)
+
+
+state 2
+
+    (2) start -> book .
+
+    $end            reduce using rule 2 (start -> book .)
+
+
+state 3
+
+    (1) start -> booknum .
+
+    $end            reduce using rule 1 (start -> booknum .)
+
+
+state 4
+
+    (7) start -> WHERE .
+
+    $end            reduce using rule 7 (start -> WHERE .)
+
+
+state 5
+
+    (3) start -> THEME .
+
+    $end            reduce using rule 3 (start -> THEME .)
+
+
+state 6
+
+    (11) booknum -> BOOK . INTEGER
+    (12) book -> BOOK . NAME : STR
+
+    INTEGER         shift and go to state 15
+    NAME            shift and go to state 14
+
+
+state 7
+
+    (9) start -> MISC .
+
+    $end            reduce using rule 9 (start -> MISC .)
+
+
+state 8
+
+    (13) data -> STATS . : INTEGER CHAPTERS , INTEGER VERSES , INTEGER WORDS
+
+    :               shift and go to state 16
+
+
+state 9
+
+    (4) start -> BY .
+
+    $end            reduce using rule 4 (start -> BY .)
+
+
+state 10
+
+    (0) S' -> start .
+
+
+
+state 11
+
+    (6) start -> FOR .
+
+    $end            reduce using rule 6 (start -> FOR .)
+
+
+state 12
+
+    (5) start -> DATE .
+
+    $end            reduce using rule 5 (start -> DATE .)
+
+
+state 13
+
+    (8) start -> data .
+
+    $end            reduce using rule 8 (start -> data .)
+
+
+state 14
+
+    (12) book -> BOOK NAME . : STR
+
+    :               shift and go to state 17
+
+
+state 15
+
+    (11) booknum -> BOOK INTEGER .
+
+    $end            reduce using rule 11 (booknum -> BOOK INTEGER .)
+
+
+state 16
+
+    (13) data -> STATS : . INTEGER CHAPTERS , INTEGER VERSES , INTEGER WORDS
+
+    INTEGER         shift and go to state 18
+
+
+state 17
+
+    (12) book -> BOOK NAME : . STR
+
+    STR             shift and go to state 19
+
+
+state 18
+
+    (13) data -> STATS : INTEGER . CHAPTERS , INTEGER VERSES , INTEGER WORDS
+
+    CHAPTERS        shift and go to state 20
+
+
+state 19
+
+    (12) book -> BOOK NAME : STR .
+
+    $end            reduce using rule 12 (book -> BOOK NAME : STR .)
+
+
+state 20
+
+    (13) data -> STATS : INTEGER CHAPTERS . , INTEGER VERSES , INTEGER WORDS
+
+    ,               shift and go to state 21
+
+
+state 21
+
+    (13) data -> STATS : INTEGER CHAPTERS , . INTEGER VERSES , INTEGER WORDS
+
+    INTEGER         shift and go to state 22
+
+
+state 22
+
+    (13) data -> STATS : INTEGER CHAPTERS , INTEGER . VERSES , INTEGER WORDS
+
+    VERSES          shift and go to state 23
+
+
+state 23
+
+    (13) data -> STATS : INTEGER CHAPTERS , INTEGER VERSES . , INTEGER WORDS
+
+    ,               shift and go to state 24
+
+
+state 24
+
+    (13) data -> STATS : INTEGER CHAPTERS , INTEGER VERSES , . INTEGER WORDS
+
+    INTEGER         shift and go to state 25
+
+
+state 25
+
+    (13) data -> STATS : INTEGER CHAPTERS , INTEGER VERSES , INTEGER . WORDS
+
+    WORDS           shift and go to state 26
+
+
+state 26
+
+    (13) data -> STATS : INTEGER CHAPTERS , INTEGER VERSES , INTEGER WORDS .
+
+    $end            reduce using rule 13 (data -> STATS : INTEGER CHAPTERS , INTEGER VERSES , INTEGER WORDS .)
+
